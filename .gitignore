@@ -427,3 +427,36 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# PowerShell temp files
+*.ps1.tmp
+*.psm1.tmp
+*.psd1.tmp
+
+# Logs and output
+*.log
+*.out
+*.tmp
+*.cache
+
+# CTI data files
+data/*.json
+data/*.csv
+data/*.xml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Python virtual environments (future-proof)
+venv/
+.env/
+
+# Compiled PowerShell modules (if you ever build them)
+bin/
+obj/
+
