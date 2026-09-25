@@ -14,7 +14,7 @@ CTI‑Tooling currently includes the following PowerShell utilities:
   Performs structured CVE and vulnerability enrichment to support triage, analysis, and automated CTI workflows.
 
 - **Generate‑HuntGuidance.ps1**  
-  Produces ATT&CK‑aligned hunt guidance, detection recommendations, and investigative notes for SOC and analyst teams.
+  Produces ATT&CK‑aligned hunt guidance, detection recommendations, and investigative notes for SOC and analyst teams. Automatically maps CWE → ATT&CK, assigns technique confidence, generates detection pivots, evaluates KEV/EPSS risk, and produces persona‑specific guidance.
 
 - **Monitor‑Exploitation.ps1** *(In Development)*  
   Will track exploitation activity, PoC availability, threat actor usage, and real‑time exploitation indicators once completed.
