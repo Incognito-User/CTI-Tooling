@@ -27,7 +27,7 @@ These scripts form a modular CTI workflow that can be used independently or chai
 ## Development Status
 
 - CTI‑CVE‑EnrichmentEngine.ps1 — Stable  
-- Generate‑HuntGuidance.ps1 — Stable  
+- Generate‑HuntGuidance.ps1 — Debugging  
 - Monitor‑Exploitation.ps1 — In Development
 
 ## Usage
