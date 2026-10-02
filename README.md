@@ -2,7 +2,7 @@
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue)
 ![License](https://img.shields.io/badge/License-Apache_2.0-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![In Development](https://img.shields.io/badge/In%20Development-Active-yellow?style=flat-square)
 
 CTI‑Tooling is a collection of PowerShell-based threat intelligence utilities for vulnerability enrichment, hunt guidance generation, and exploitation monitoring. Designed to support analysts, SOC teams, and automated CTI workflows with consistent, actionable output.
 
